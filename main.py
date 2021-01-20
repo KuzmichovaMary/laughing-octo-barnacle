@@ -1,3 +1,5 @@
+### maryshca (c)
+
 import sys
 from random import randint
 
